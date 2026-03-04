@@ -3,6 +3,9 @@ layout: default
 ---
 
  # Bennett Franzen Personal Portfolio
+ **chatgpt may have broken ALL OF THIS SHIT im pissed idk if it will work the local host shows the site without the changes idk what the fuck to do kill me please**
+
+
 
 [sample link code to use elsewhere on site eventually](./another-page.html).
 
